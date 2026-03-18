@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**ValerieConcep/ValerieConcep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Valerie!
+   I’m a driven and curious individual who thrives in team-oriented environments. I enjoy tackling new challenges, learning continuously, and pushing myself to grow.
+  
 
-Here are some ideas to get you started:
+## Projects
+- [Financial Data Analysis](https://github.com/ValerieConcep/Financial-Data-Analysis)
+- [Casino Project](https://github.com/ValerieConcep/Casino-Project)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+
+**Languages:** Python, SQL, C/C++, Java, HTML  
+**Data Tools:** Tableau, Power BI, Excel, Access, SAS  
+**Technologies:** GitHub, SAP, Oracle APEX, Azure  
+**Concepts:** Data Analysis, Machine Learning, Statistical Modeling
+
+## Connect with me! 
+- [My LinkedIn](http://www.linkedin.com/in/valerie-concepcion)
+  
