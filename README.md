@@ -1,6 +1,6 @@
 
 # Hi, I’m Valerie  
-I am a rising senior studying Information Systems and Data Analytics.  
+I am a senior studying Information Systems and Data Analytics.  
 I’m passionate about the ways technology connects people and creates meaningful impact. That curiosity led me to pursue a career in tech, where I’ve developed strong interests in problem-solving, critical thinking, and continuously learning new skills. 
 
 After studying abroad, I discovered a love for new experiences that continues to shape both my personal and professional growth. I actively seek opportunities that challenge me, expand my perspective, and push me to grow.  
