@@ -10,7 +10,6 @@ While I aspire to become a software engineer, I’ve also found a strong interes
 Above all, I value the relationships I’ve built with peers, professors, and mentors throughout my journey as they've played a key role in shaping who I am today.
  
   
-
 ## Projects
 - [Financial Data Analysis](https://github.com/ValerieConcep/Financial-Data-Analysis)
 - [Casino Project](https://github.com/ValerieConcep/Casino-Project)
