@@ -1,26 +1,44 @@
+# Valerie Concepcion
 
-# Hi, I’m Valerie  
-I am a senior studying Information Systems and Data Analytics.  
-I’m passionate about the ways technology connects people and creates meaningful impact. That curiosity led me to pursue a career in tech, where I’ve developed strong interests in problem-solving, critical thinking, and continuously learning new skills. 
+**Information Systems & Data Analytics student** focused on data engineering and analytics consulting. I build pipelines that turn raw data into reliable, decision-ready insights and explain those insights clearly to both technical and non-technical audiences.
 
-After studying abroad, I discovered a love for new experiences that continues to shape both my personal and professional growth. I actively seek opportunities that challenge me, expand my perspective, and push me to grow.  
+---
 
-While I aspire to become a software engineer, I’ve also found a strong interest in data analytics. One of my favorite things is translating complex data insights into clear, meaningful explanations, especially for those without a technical background. I enjoy helping others better understand what technology can do and how it can positively impact our world.
+## About Me
 
-Above all, I value the relationships I’ve built with peers, professors, and mentors throughout my journey as they've played a key role in shaping who I am today.
- 
-  
-## Projects
-- [Financial Data Analysis](https://github.com/ValerieConcep/Financial-Data-Analysis)
-- [Casino Project](https://github.com/ValerieConcep/Casino-Project)
+- I'm a senior at Loyola studying **Information Systems and Data Analytics**
+- I enjoy problem-solving, especially using data solutions to uncover the issues a business is facing and figure out how to fix them
+- I'm part of a transformation initiative at Loyola that is implementing **Workday** to replace a legacy system that has been in place for more than 30 years
+- I've built an end-to-end ELT pipeline in Snowflake and dbt, plus Python projects that pull data from APIs, clean it up and turn it into reports people can actually use
+- I like explaining what the data shows to people without a technical background
+- As a Business Systems Analyst intern, I built **Power BI** dashboards to solve real business problems for the company, and it turned out to be some of my favorite work.
+- Studying abroad taught me to adapt quickly, and I bring that to every team I join
+- I'm looking for **data engineering and analytics consulting** roles
 
-## 💻 Skills
+---
 
-**Languages:** Python, SQL, C/C++, Java, HTML  
-**Data Tools:** Tableau, Power BI, Excel, Access, SAS  
-**Technologies:** GitHub, SAP, Oracle APEX, Azure  
-**Concepts:** Data Analysis, Machine Learning, Statistical Modeling
+## Featured Projects
 
-## Connect with me! 
-- [My LinkedIn](http://www.linkedin.com/in/valerie-concepcion)
-  
+| Project | Description | Tools |
+|---|---|---|
+| [NYC Taxi ELT Pipeline](https://github.com/ValerieConcep/snowflake-nyc-taxi-elt) | End-to-end ELT pipeline that loads 9.5M+ NYC taxi trips from AWS S3 into Snowflake and models them into a tested star schema with dbt, with data-quality profiling and secure, least-privilege access | Python, AWS S3, IAM, Snowflake, dbt, SQL |
+| [Financial Data Analysis](https://github.com/ValerieConcep/Financial-Data-Analysis) | ETL pipeline that pulls company and stock price data from a REST API, calculates volatility and trend metrics, and produces an Excel report with an executive summary | Python, REST APIs, openpyxl, Excel |
+| [Casino Project](https://github.com/ValerieConcep/Casino-Project) | Command-line casino simulation with modular game functions and a betting and balance system | Python |
+
+---
+
+## Technical Skills
+
+| Category | Skills |
+|---|---|
+| **Languages** | Python, SQL, Java, C/C++, HTML |
+| **Data Engineering** | Snowflake, dbt, AWS S3, AWS IAM, ELT pipelines, dimensional modeling (star schema) |
+| **Analytics & BI** | Tableau, Power BI, Excel, SAS, Microsoft Access |
+| **Cloud & Platforms** | Workday, Microsoft Azure, SAP, Oracle APEX, Git/GitHub |
+| **Concepts** | Data cleaning, statistical modeling, machine learning, data visualization |
+
+---
+
+## Connect
+
+[LinkedIn](http://www.linkedin.com/in/valerie-concepcion) · valerieconcep@gmail.com
